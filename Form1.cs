@@ -18,6 +18,8 @@ namespace Floppy_Bird_Windows_Form
         int score = 0;         // default score integer set to 0
 
         bool gameOver = false;
+        Random rnd = new Random();
+
         public Form1()
         {
             InitializeComponent();
@@ -33,13 +35,13 @@ namespace Floppy_Bird_Windows_Form
             if (pipeBottom.Left < -150)
             {
                 // if the bottom pipes location is -150 then we will reset it back to 800 and add 1 to the score
-                pipeBottom.Left = 800;
+                pipeBottom.Left = rnd.Next(750, 1300);
                 score++;
             }
             if(pipeTop.Left < -180)
             {
                 // if the top pipe location is -180 then we will reset the pipe back to the 950 and add 1 to the score
-                pipeTop.Left = 950;
+                pipeTop.Left = rnd.Next(850, 1500);
                 score++;
             }
 

@@ -70,7 +70,7 @@
             // pipeBottom
             // 
             this.pipeBottom.Image = global::Floppy_Bird_Windows_Form.Properties.Resources.pipe;
-            this.pipeBottom.Location = new System.Drawing.Point(694, 398);
+            this.pipeBottom.Location = new System.Drawing.Point(399, 398);
             this.pipeBottom.Name = "pipeBottom";
             this.pipeBottom.Size = new System.Drawing.Size(100, 96);
             this.pipeBottom.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -80,7 +80,7 @@
             // flappyBird
             // 
             this.flappyBird.Image = global::Floppy_Bird_Windows_Form.Properties.Resources.bird;
-            this.flappyBird.Location = new System.Drawing.Point(119, 186);
+            this.flappyBird.Location = new System.Drawing.Point(101, 152);
             this.flappyBird.Name = "flappyBird";
             this.flappyBird.Size = new System.Drawing.Size(65, 48);
             this.flappyBird.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -90,7 +90,7 @@
             // pipeTop
             // 
             this.pipeTop.Image = global::Floppy_Bird_Windows_Form.Properties.Resources.pipedown;
-            this.pipeTop.Location = new System.Drawing.Point(852, 0);
+            this.pipeTop.Location = new System.Drawing.Point(565, 9);
             this.pipeTop.Name = "pipeTop";
             this.pipeTop.Size = new System.Drawing.Size(100, 158);
             this.pipeTop.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -102,7 +102,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.ClientSize = new System.Drawing.Size(1147, 553);
+            this.ClientSize = new System.Drawing.Size(1022, 553);
             this.Controls.Add(this.scoreText);
             this.Controls.Add(this.ground);
             this.Controls.Add(this.pipeBottom);
