@@ -1,0 +1,11 @@
+C:\Users\yongh\source\repos\Floppy Bird Windows Form\Floppy Bird Windows Form\bin\Debug\Floppy Bird Windows Form.exe.config
+C:\Users\yongh\source\repos\Floppy Bird Windows Form\Floppy Bird Windows Form\bin\Debug\Floppy Bird Windows Form.exe
+C:\Users\yongh\source\repos\Floppy Bird Windows Form\Floppy Bird Windows Form\bin\Debug\Floppy Bird Windows Form.pdb
+C:\Users\yongh\source\repos\Floppy Bird Windows Form\Floppy Bird Windows Form\obj\Debug\Floppy Bird Windows Form.csproj.AssemblyReference.cache
+C:\Users\yongh\source\repos\Floppy Bird Windows Form\Floppy Bird Windows Form\obj\Debug\Floppy Bird Windows Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\yongh\source\repos\Floppy Bird Windows Form\Floppy Bird Windows Form\obj\Debug\Floppy_Bird_Windows_Form.Form1.resources
+C:\Users\yongh\source\repos\Floppy Bird Windows Form\Floppy Bird Windows Form\obj\Debug\Floppy_Bird_Windows_Form.Properties.Resources.resources
+C:\Users\yongh\source\repos\Floppy Bird Windows Form\Floppy Bird Windows Form\obj\Debug\Floppy Bird Windows Form.csproj.GenerateResource.cache
+C:\Users\yongh\source\repos\Floppy Bird Windows Form\Floppy Bird Windows Form\obj\Debug\Floppy Bird Windows Form.csproj.CoreCompileInputs.cache
+C:\Users\yongh\source\repos\Floppy Bird Windows Form\Floppy Bird Windows Form\obj\Debug\Floppy Bird Windows Form.exe
+C:\Users\yongh\source\repos\Floppy Bird Windows Form\Floppy Bird Windows Form\obj\Debug\Floppy Bird Windows Form.pdb
